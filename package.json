@@ -1,0 +1,15 @@
+{
+  "name": "web",
+  "version": "0.1.0",
+  "description": "vin-website-project1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "vlsulliv",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^8.45.0",
+    "eslint-config-google": "^0.14.0"
+  }
+}
